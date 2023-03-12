@@ -1,0 +1,19 @@
+[
+    {
+      "icon": "Assets/PinUWP.png",
+      "name": "PinUWP",
+      "description": "This app gives a native experience for Windows 11 users, using the UI elements Windows 11 is known for.",
+      "links": [
+        {
+            "name": "Microsoft Store (Not available yet)", 
+            "link": "https://www.microsoft.com/store/apps/9PJP8Z5VPK3Z",
+            "icon": "Assets/MicrosoftStore.png"
+        },
+        {
+            "name": "Privacy Policy", 
+            "link": "PinUWP/PrivacyPolicy.html",
+            "icon": "Assets/IconInfo.png"
+        }
+        ]
+    }
+  ]

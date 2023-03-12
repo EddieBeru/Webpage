@@ -1,0 +1,13 @@
+.Documento {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.Documento p{
+    margin: 0;
+}
