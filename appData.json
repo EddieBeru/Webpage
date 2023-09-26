@@ -1,8 +1,8 @@
 [
     {
-      "icon": "Assets/PinUWP.png",
-      "name": "PinUWP",
-      "description": "This app gives a native experience for Windows 11 users, using the UI elements Windows 11 is known for.",
+      "icon": "Assets/WinterestLogo.png",
+      "name": "Winterest",
+      "description": "This app gives a native experience for Windows 11 and Windows 10 users, using the UI elements Windows 11/10 is known for and making it easy for touch or pen control.",
       "links": [
         {
             "name": "Microsoft Store (Not available yet)", 
@@ -11,7 +11,7 @@
         },
         {
             "name": "Privacy Policy", 
-            "link": "PinUWP/PrivacyPolicy.html",
+            "link": "Winterest/PrivacyPolicy.html",
             "icon": "Assets/IconInfo.png"
         }
         ]
